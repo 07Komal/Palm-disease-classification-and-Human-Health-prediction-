@@ -3,10 +3,10 @@ A deep learning project for detecting palm leaf diseases using a CNN (MobileNetV
 This project aims to classify diseases in palm leaves using deep learning techniques and analyze the potential health impacts on humans from consuming infected leaves. The solution leverages Convolutional Neural Networks (CNN) with a custom model architecture based on MobileNetV2 for effective and accurate disease detection in palm leaves. The project is developed in Python using Jupyter Notebook and VS Code.
 
 Key Features
-Disease Classification: Identifies diseases in palm leaves by classifying visible symptoms in leaf images.
-Human Health Analysis: Evaluates potential health risks associated with each type of leaf disease, providing insights into possible health impacts from consuming infected leaves.
-Gradio User Interface: Provides an interactive UI for users to upload palm leaf images and receive disease predictions.
-Customizable Model: The model is trained on a custom dataset and can be adapted for various plant disease classification tasks.
+- Disease Classification: Identifies diseases in palm leaves by classifying visible symptoms in leaf images.
+- Human Health Analysis: Evaluates potential health risks associated with each type of leaf disease, providing insights into possible health impacts from consuming infected leaves.
+- Gradio User Interface: Provides an interactive UI for users to upload palm leaf images and receive disease predictions.
+- Customizable Model: The model is trained on a custom dataset and can be adapted for various plant disease classification tasks.
 Model Accuracy Improvement with Ensemble Techniques: Uses Nash Equilibrium and ResNet to train multiple models with different data splits and hyperparameters, enhancing overall model accuracy.
 Technical Details
 1. Data Collection and Preprocessing
